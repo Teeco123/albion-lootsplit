@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/albion-lootsplit/static/css/main.aeac899a.css",
+    "main.js": "/albion-lootsplit/static/js/main.1aee9620.js",
+    "index.html": "/albion-lootsplit/index.html",
+    "main.aeac899a.css.map": "/albion-lootsplit/static/css/main.aeac899a.css.map",
+    "main.1aee9620.js.map": "/albion-lootsplit/static/js/main.1aee9620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeac899a.css",
+    "static/js/main.1aee9620.js"
+  ]
+}
